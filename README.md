@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @norheimerik
+
+Private repositories for courses taken at Chalmers at which programming has been used, mainly Matlab and Python.
+
+<!---
+norheimerik/norheimerik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+- 👋 Hi, I’m @norheimerik
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+--->
